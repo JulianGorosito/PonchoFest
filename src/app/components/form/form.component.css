@@ -1,0 +1,17 @@
+.ContainerFondo{
+  background-color: #FFF2CA;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.container-form{
+  background-color: whitesmoke;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  border: 1px gray solid;
+}
